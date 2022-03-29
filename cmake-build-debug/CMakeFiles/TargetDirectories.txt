@@ -1,3 +1,3 @@
-C:/Users/aadel/CLionProjects/SimpleSubstitutionCipher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/aadel/CLionProjects/SimpleSubstitutionCipher/cmake-build-debug/CMakeFiles/SimpleSubstitutionCipher.dir
-C:/Users/aadel/CLionProjects/SimpleSubstitutionCipher/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aadel/Documents/my-github/SimpleSubstitutionCipher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/aadel/Documents/my-github/SimpleSubstitutionCipher/cmake-build-debug/CMakeFiles/SimpleSubstitutionCipher.dir
+C:/Users/aadel/Documents/my-github/SimpleSubstitutionCipher/cmake-build-debug/CMakeFiles/edit_cache.dir
